@@ -1,8 +1,11 @@
 def starts_with_a_vowel?(word)
   if word =~ /^[aeiouAEIOU]/
     true
+<<<<<<< HEAD
   else
     false
+=======
+>>>>>>> fb4aa5c793b3bec04ab82d01393a648f08fa23cb
   end
 end
 
